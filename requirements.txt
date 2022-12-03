@@ -1,0 +1,14 @@
+anyio==3.6.2
+asyncio-atexit==1.0.1
+certifi==2022.9.24
+h11==0.14.0
+httpcore==0.16.2
+httpx==0.23.1
+idna==3.4
+pyaes==1.6.1
+pylast==5.1.0
+Pyrogram==2.0.63
+PySocks==1.7.1
+rfc3986==1.5.0
+sniffio==1.3.0
+TgCrypto==1.2.5
